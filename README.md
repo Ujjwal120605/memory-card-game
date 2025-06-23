@@ -8,7 +8,7 @@ A fun and interactive **Memory Card Game** built with **HTML, CSS, and JavaScrip
 
 **Run locally using Live Server:**
 
-👉 [http://127.0.0.1:5500/index.html] https://ujjwal120605.github.io/memory-card-game/
+ https://ujjwal120605.github.io/memory-card-game/
 
 > _Make sure you open it using **Live Server** in VS Code._
 
